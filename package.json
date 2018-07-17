@@ -1,0 +1,14 @@
+{
+  "name": "bs-gql",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "",
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w",
+    "clean": "bsb -clean-world"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bs-platform": "^3.1.0"
+  }
+}

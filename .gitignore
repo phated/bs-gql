@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# Bucklescript
+.merlin
+.bsb.lock
+/lib/bs/

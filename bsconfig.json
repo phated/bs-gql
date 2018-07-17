@@ -1,0 +1,26 @@
+{
+  "name": "bs-gql",
+  "bsc-flags": [
+    "-bs-no-version-header",
+    "-bs-super-errors"
+  ],
+  "refmt": 3,
+  "bs-dependencies": [
+  ],
+  "ppx-flags": [
+  ],
+  "namespace": true,
+  "reason": {},
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "sources": [
+    {
+      "dir": "src"
+    },
+    {
+      "dir": "example"
+    }
+  ]
+}
